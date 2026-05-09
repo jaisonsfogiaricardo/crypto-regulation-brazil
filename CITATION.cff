@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se você utilizar este trabalho ou os dados contidos neste repositório, por favor cite-o conforme abaixo."
+authors:
+  - family-names: "Sfogia Ricardo"
+    given-names: "Jaison"
+    orcid: "https://orcid.org/0000-0002-8771-270X"
+title: "ARQUITETURA REGULATÓRIA INCREMENTAL DOS ATIVOS VIRTUAIS NO BRASIL (2014–2026)"
+version: 1.0.0
+doi: "10.5281/zenodo.20097860"
+date-released: 2026-05-09
+url: "https://github.com/jaisonsfogiaricardo/cripto-regulacao-brasil"
+keywords:
+  - Regulação
+  - Ativos Virtuais
+  - Blockchain
+  - Brasil
+  - Banco Central
+  - CVM
