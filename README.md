@@ -3,47 +3,41 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20097860.svg)](https://doi.org/10.5281/zenodo.20097860)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8771--270X-green)](https://orcid.org/0000-0002-8771-270X)
 
-Academic dataset and research repository on cryptoassets, blockchain regulation, and digital financial crime in Brazil.
+Academic dataset and research repository on cryptoassets, blockchain regulation, and digital financial crime in Brazil. This repository serves as a centralized hub for studies on the institutional and legal evolution of virtual assets.
 
-## 🏆 Featured Research
-**ARQUITETURA REGULATÓRIA INCREMENTAL DOS ATIVOS VIRTUAIS NO BRASIL (2014–2026)**
-*Author: Jaison Sfogia Ricardo*
-*DOI:* [10.5281/zenodo.20097860](https://doi.org/10.5281/zenodo.20097860)
+## 📚 Available Publications and Studies
+In this repository, you will find detailed analyses and supplemental data for the following works:
 
-This primary study examines the five-stage institutional trajectory of virtual asset regulation in Brazil, from early warnings to full prudential integration.
+1. **Incremental Regulatory Architecture (2014–2026)** - [View details](./articles/arquitetura-incremental.md)
+   *Focus: The five-stage institutional trajectory of virtual asset regulation in Brazil.*
+   * **ABNT:** RICARDO, Jaison Sfogia. **Arquitetura Regulatória Incremental dos Ativos Virtuais no Brasil (2014–2026)**. Zenodo, 2026. Disponível em: https://doi.org/10.5281/zenodo.20097860.
+
+2. **The Surge of Deepfakes and Crypto-Fraud** - [View details](./articles/deepfakes-criptofraudes.md)
+   *Focus: AI-driven financial crimes and the legal response under Law 14.478/2022.*
+   * **ABNT:** RICARDO, Jaison Sfogia. **A ESCALADA DAS DEEPFAKES E CRIPTOFRAUDES NO BRASIL: ANÁLISE DA RESPOSTA JURÍDICA E DESAFIOS ESTRATÉGICOS FRENTE À INTELIGÊNCIA ARTIFICIAL**. In: *Título do Livro*. Editora Científica Digital, 2026, p. 74-94. DOI: 10.37885/251220868.
+
+3. **Cryptoasset Governance and Regulatory Compliance** - [View details](./articles/governanca-compliance.md)
+   *Focus: Global challenges in AML/CFT and the effectiveness of international normative approaches.*
+   * **ABNT:** RICARDO, Jaison Sfogia. **GOVERNANÇA DE CRIPTOATIVOS E COMPLIANCE REGULATÓRIO: DESAFIOS GLOBAIS NA PREVENÇÃO DE ILÍCITOS FINANCEIROS DIGITAIS**. Revista Ibero-Americana De Humanidades, Ciências E Educação, v. 12, n. 1, p. 1–24, 2026. Disponível em: https://doi.org/10.51891/rease.v12i1.20387.
+
+4. **Cryptoassets: Regulation and Emerging Challenges** - [View details](./articles/regulamentacao-desafios.md)
+   *Focus: Historical perspective (2021) on the digitalization of financial crimes and regulatory gaps.*
+   * **ABNT:** RICARDO, Jaison Sfogia. **CRIPTOATIVOS: REGULAMENTAÇÃO E DESAFIOS EMERGENTES PARA O COMBATE AOS CRIMES FINANCEIROS**. Revista Reflexão e Crítica do Direito, v. 9, n. 2, p. 145–164, 2021. Disponível em: https://revistas.unaerp.br/rcd/article/view/2310.
 
 ---
 
-## Overview
-This repository provides a structured dataset of academic articles focused on:
-* Cryptoassets and blockchain ecosystems
-* Financial regulation and compliance (CVM and BCB)
-* Digital fraud, deepfakes, and cybercrime
-* Anti-money laundering (AML) and counter-terrorism financing (CTF)
-
-## Dataset Structure
-- `articles/` → Structured summaries of academic articles.
-- `metadata/` → Machine-readable JSON metadata.
-- `datasets/all_articles.json` → Consolidated dataset index.
-- `CITATION.cff` → Machine-readable citation metadata.
-
-## 📚 Available Publications and Studies
-In this repository, you will find detailed analyses on:
-
-1. **Incremental Regulatory Architecture (2014–2026)** 
-2. **Deepfakes and Crypto Fraud in Brazil** 
-3. **Governance and Compliance in Crypto Ecosystems** 
+## 📂 Dataset Structure
+- **/articles**: Detailed summaries, abstracts (EN/PT), and citation metadata for each study.
+- **/datasets**: Machine-readable files (JSON/CSV) containing regulatory timelines and consolidated indexes.
+- **/metadata**: Technical metadata for academic indexing.
 
 ## 🎓 How to Cite
-If you use this research or dataset in your work, please cite it as:
-
-**APA:**
-RICARDO, J. S. (2026). *Arquitetura Regulatória Incremental dos Ativos Virtuais no Brasil (2014–2026)*. Zenodo. https://doi.org/10.5281/zenodo.20097860
+If you use the data or research presented here, please refer to the specific citation format found in each article's page or use the general repository citation provided by the "Cite this repository" button on the right sidebar.
 
 ## Author
 **Jaison Sfogia Ricardo**
 Researcher and author focusing on crypto-assets, financial regulation, and digital crimes.
-Director of Secretariat at the Labor Court (Brazil).
+Expertise in Blockchain, DeFi, and Forensic Investigation.
 
 ## Keywords
-cryptoassets, blockchain, financial regulation, AML, compliance, cybercrime, deepfake, digital fraud, Brazil, fintech regulation, Ley 14.478/2022.
+cryptoassets, blockchain, financial regulation, AML, compliance, cybercrime, deepfake, digital fraud, Brazil, fintech regulation, Law 14.478/2022, Central Bank of Brazil.
