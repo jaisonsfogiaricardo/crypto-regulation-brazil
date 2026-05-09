@@ -27,6 +27,13 @@ This repository provides a structured dataset of academic articles focused on:
 - `datasets/all_articles.json` → Consolidated dataset index.
 - `CITATION.cff` → Machine-readable citation metadata.
 
+## 📚 Publicações e Estudos Disponíveis
+Neste repositório, você encontra análises detalhadas sobre:
+
+1. **Arquitetura Regulatória Incremental (2014-2026)** - [Ver detalhes](./articles/arquitetura-incremental.md)
+2. **Deepfakes e Fraudes Cripto no Brasil** - [Ver detalhes](./articles/deepfakes-fraud.md)
+3. **Governança e Compliance em Ecossistemas Cripto** - [Ver detalhes](./articles/governance-compliance.md)
+
 ## 🎓 How to Cite
 If you use this research or dataset in your work, please cite it as:
 
