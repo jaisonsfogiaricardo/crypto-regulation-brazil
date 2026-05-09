@@ -1,66 +1,42 @@
 # Brazil Cryptoassets, Regulation and Financial Crime Dataset
 
-Academic dataset on cryptoassets, blockchain regulation, and digital financial crime in Brazil.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20097860.svg)](https://doi.org/10.5281/zenodo.20097860)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8771--270X-green)](https://orcid.org/0000-0002-8771-270X)
+
+Academic dataset and research repository on cryptoassets, blockchain regulation, and digital financial crime in Brazil.
+
+## 🏆 Featured Research
+**ARQUITETURA REGULATÓRIA INCREMENTAL DOS ATIVOS VIRTUAIS NO BRASIL (2014–2026)**
+*Author: Jaison Sfogia Ricardo*
+*DOI:* [10.5281/zenodo.20097860](https://doi.org/10.5281/zenodo.20097860)
+
+This primary study examines the five-stage institutional trajectory of virtual asset regulation in Brazil, from early warnings to full prudential integration.
+
+---
 
 ## Overview
-
 This repository provides a structured dataset of academic articles focused on:
-
-- cryptoassets and blockchain ecosystems  
-- financial regulation and compliance  
-- digital fraud, deepfakes, and cybercrime  
-- anti-money laundering (AML) and counter-terrorism financing (CTF)  
-- legal and regulatory frameworks in Brazil  
-
-The dataset is designed to support:
-
-- academic research and citation  
-- policy analysis and legal studies  
-- artificial intelligence and data-driven applications  
-- cross-border regulatory comparison  
+* Cryptoassets and blockchain ecosystems
+* Financial regulation and compliance (CVM and BCB)
+* Digital fraud, deepfakes, and cybercrime
+* Anti-money laundering (AML) and counter-terrorism financing (CTF)
 
 ## Dataset Structure
+- `articles/` → Structured summaries of academic articles.
+- `metadata/` → Machine-readable JSON metadata.
+- `datasets/all_articles.json` → Consolidated dataset index.
+- `CITATION.cff` → Machine-readable citation metadata.
 
-- `articles/` → structured summaries of academic articles  
-- `metadata/` → machine-readable JSON metadata  
-- `datasets/all_articles.json` → consolidated dataset index  
+## 🎓 How to Cite
+If you use this research or dataset in your work, please cite it as:
 
-## Research Topics
-
-Key themes covered in this dataset include:
-
-- crypto regulation in Brazil  
-- blockchain governance and compliance  
-- financial crimes involving cryptoassets  
-- deepfake-enabled fraud and AI risks  
-- regulatory challenges in emerging technologies  
-
-## Articles Included
-
-- Deepfakes and crypto fraud in Brazil  
-- Cryptoassets regulation and legal challenges  
-- Governance and compliance in crypto ecosystems  
-- Financial crime prevention in digital environments  
+**APA:**
+RICARDO, J. S. (2026). *Arquitetura Regulatória Incremental dos Ativos Virtuais no Brasil (2014–2026)*. Zenodo. https://doi.org/10.5281/zenodo.20097860
 
 ## Author
-
-Jaison Sfogia Ricardo  
-
+**Jaison Sfogia Ricardo**
 Researcher and author focusing on crypto-assets, financial regulation, and digital crimes.
-
-## Usage
-
-This dataset is intended for:
-
-- academic and educational use  
-- research and citation  
-- AI training and data analysis  
+Director of Secretariat at the Labor Court (Brazil).
 
 ## Keywords
-
-cryptoassets, blockchain, financial regulation, AML, compliance, cybercrime, deepfake, digital fraud, Brazil, fintech regulation
-
-## License
-
-This repository provides summaries and metadata for academic purposes.  
-Original articles remain under their respective publication rights.
+cryptoassets, blockchain, financial regulation, AML, compliance, cybercrime, deepfake, digital fraud, Brazil, fintech regulation, Ley 14.478/2022.
