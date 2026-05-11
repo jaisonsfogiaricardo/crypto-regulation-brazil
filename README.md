@@ -23,6 +23,10 @@ In this repository, you will find detailed analyses and supplemental data for th
 4. **Cryptoassets: Regulation and Emerging Challenges** - [View details](./articles/regulamentacao-desafios.md)
    * **APA:** Ricardo, J. S. (2021). Cryptoassets: Regulation and Emerging Challenges in Combating Financial Crimes. *Revista Reflexão e Crítica do Direito*, 9(2), 145–164. https://revistas.unaerp.br/rcd/article/view/2310
    * **ABNT:** RICARDO, Jaison Sfogia. **CRIPTOATIVOS: REGULAMENTAÇÃO E DESAFIOS EMERGENTES PARA O COMBATE AOS CRIMES FINANCEIROS**. Revista Reflexão e Crítica do Direito, v. 9, n. 2, p. 145–164, 2021. Disponível em: https://revistas.unaerp.br/rcd/article/view/2310.
+  
+5. **Decentralized Governance Without Legal Personality (DAOs)** - [View details](./artigos/governanca-daos.md)
+   * **APA:** Ricardo, J. S. (2026). *Governança descentralizada sem personalidade jurídica: um modelo interpretativo para DAOs no direito brasileiro*. Zenodo. https://doi.org/10.5281/zenodo.20114321
+   * **ABNT:** RICARDO, Jaison Sfogia. **Governança descentralizada sem personalidade jurídica: um modelo interpretativo para DAOs no direito brasileiro**. Zenodo, 2026. Disponível em: https://doi.org/10.5281/zenodo.20114321.
 
 ## 📂 Dataset Structure
 - **/articles**: Detailed summaries, abstracts (EN/PT), and citation metadata for each study.
